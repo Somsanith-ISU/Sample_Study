@@ -1,4 +1,3 @@
-This is a copy of the _includes/cb/about_the_about.md
 {% comment %}
     Find some sample images or use defaults for About demos
 {% endcomment %}
