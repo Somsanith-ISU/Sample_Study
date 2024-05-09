@@ -1,6 +1,6 @@
 ---
 title: Iowa Churches
-layout: about
+layout: iowa_churches
 permalink: /iowa_churches.html
 ---
 
