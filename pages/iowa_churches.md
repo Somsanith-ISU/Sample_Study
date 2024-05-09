@@ -1,6 +1,6 @@
 ---
-title: Iowa Churches
-layout: iowa_churches
+title: Black Churches in Iowa
+layout: home
 permalink: /iowa_churches.html
 ---
 
