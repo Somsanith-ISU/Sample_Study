@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="demo_001" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
+{% include feature/nav-menu.html sections="About CollectionBuilder CSV; Iowa Churches; About the About Page" %}
 
 ## About CollectionBuilder CSV
 
@@ -30,4 +30,6 @@ See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed informa
 {% include feature/image.html objectid="demo_008" width="100" %} 
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
+{% include pages/iowa_churces.md %}
+
 {% include cb/about_the_about.md %} 
